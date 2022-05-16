@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Na+AtPdac+R8Zxks/Sz8rNjdgOytE4OjOlqpwwlfdupP6ZaavFSoyCtkz88j+xRnxepQX7E7EMsfeW3QRjWxMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akmal199601\\Desktop\\Project\\practice\\clean code\\Solution\\Notes.Domain\\Notes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akmal199601\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\akmal199601\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

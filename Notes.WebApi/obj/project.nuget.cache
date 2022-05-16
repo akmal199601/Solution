@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5ILq6Zf/bUvX0m0HHLswI79MQRxvN15fUpt6iHc2NZ/lW6EO0fmn1Hs01gZ/HKwzzBas14flMRn1D/t1253VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akmal199601\\Desktop\\Project\\practice\\clean code\\Solution\\Notes.WebApi\\Notes.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akmal199601\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\akmal199601\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
